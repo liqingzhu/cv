@@ -1,0 +1,29 @@
+html{font-size: 100px;}
+.header{
+
+  padding: 0;
+  top: 0rem;
+}
+.header >img{
+  display: inline-block;
+  width: .5rem;
+}
+.header-font{
+  width: .1rem;
+  font-size: .35rem;
+}
+.jumbotron >p{
+  font-size: .15rem;
+}
+.cd-timeline-content > h2{
+  font-size: .25rem;
+}
+.cd-timeline-content > p{
+  font-size: .15rem;
+}
+.cd-timeline-content > a{
+  font-size: .15rem;
+}
+.cd-timeline-content > span{
+  font-size: .15rem;
+}
